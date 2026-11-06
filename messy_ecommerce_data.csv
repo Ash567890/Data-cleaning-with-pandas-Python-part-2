@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerName,CustomerEmail,CustomerAge,Country,ProductCategory,UnitPrice,Quantity,CustomerNotes
+10000,2023-01-01,Michael Wilson,marydavis@domain,,canada,Clothing & Apparel,150.0,100,Satisfied with purchase. Will buy again!
+ORD-1001,1672594225,John Smith,robert.j@gmail.com,,United States,Sports ,19.99,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1002,2023/01/02 11:00:50,david taylor,robert.j@gmail.com,45, India ,clothing,9999.0,3,Package left at front desk. Signed by guard.
+ORD-1003,03-Jan-2023,John Smith,john.smith@gmail.com,45,CAN,Electronics,,4,Package left at front desk. Signed by guard.
+ORD-1004,01/03/2023,mARy dAVIS,david.t@gmail.com,-5,United States,Clothing & Apparel,299.99,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1005,01/04/2023,ALICE BROWN,JANE.DOE@YAHOO.COM,,United States,ELECTRONICS,-50.0,3,Customer requested return due to damaged packaging.
+ORD-1006,01/05/2023,  Robert Johnson ,robert.j@gmail.com,999,INDIA,Toys,,2,Customer requested return due to damaged packaging.
+ORD-1007,1672972376,Michael Wilson,david.t@gmail.com,999,INDIA,Sports ,-50.0,10,Satisfied with purchase. Will buy again!
+ORD-1008,06-Jan-2023,jane doe,david.t@gmail.com,52,UK,Electronics,,5,Satisfied with purchase. Will buy again!
+ORD-1009,2023/01/07 13:33:47,  Robert Johnson ,alice_b@hotmail.com,,, Home & Kitchen,299.99,5,
+ORD-1010,,mARy dAVIS,alice_b@hotmail.com,18,,Toys,9999.0,5,Package left at front desk. Signed by guard.
+ORD-1011,1673224477,david taylor,marydavis@domain,18,US,Home,,5,
+ORD-1011,2023/01/09 18:05:03,jane doe,m.wilson@corp.org,67,United Kingdom,Clothing & Apparel,299.99,3,Customer requested return due to damaged packaging.
+ORD-1013,01/10/2023,James Anderson,marydavis@domain,25, India ,Electronics,1200.5,-1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1014,01/11/2023,,,150,US,electronics,9999.0,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+100015,01/11/2023,jane doe,JANE.DOE@YAHOO.COM,999,in,clothing,-50.0,4,Satisfied with purchase. Will buy again!
+ORD-1016,2023-01-12,mARy dAVIS,,45,United States of America,clothing,0.0,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1017,13-Jan-2023,Sarah Miller,,52,,Sports ,150.0,,Customer requested return due to damaged packaging.
+ORD-1018,2023-01-14,,john.smith@gmail.com,150,CAN, Home & Kitchen,0.0,1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1019,2023-01-14,John Smith,,34,INDIA,Sports ,9999.0,4,Customer requested return due to damaged packaging.
+ORD-1020,15-Jan-2023,Michael Wilson,marydavis@domain,52,uk,electronics,-50.0,1,n/a
+ORD-1021,01/16/2023,John Smith,robert.j@gmail.com,34,u.s.a.,ELECTRONICS,,10,---
+ORD-1022,2023-01-17,jane doe,robert.j@gmail.com,,United States of America, Home & Kitchen,-50.0,4,Package left at front desk. Signed by guard.
+ORD-1023,2023-01-17,John Smith,alice_b@hotmail.com,34,u.s.a.,  ,,5,
+ORD-1024,2023-01-18,mARy dAVIS,JANE.DOE@YAHOO.COM,34, India ,ELECTRONICS,299.99,5,Customer requested return due to damaged packaging.
+ORD-1025,2023/01/19 05:40:31,James Anderson,JANE.DOE@YAHOO.COM,-5, India , Home & Kitchen,9999.0,,---
+ORD-1026,01/19/2023,david taylor,john.smith@gmail.com,-5,in, Home & Kitchen,299.99,1,n/a
+ORD-1027,20-Jan-2023,Michael Wilson,marydavis@domain,-5,u.s.a.,electronics,49.99,2,
+ORD-1028,21-Jan-2023,John Smith,alice_b@hotmail.com,, India ,Home,,10,Customer requested return due to damaged packaging.
+ORD-1029,,John Smith,JANE.DOE@YAHOO.COM,150,uk,electronics,1200.5,5,Satisfied with purchase. Will buy again!
+100030,22-Jan-2023,jane doe,robert.j@gmail.com,52,USA, Home & Kitchen,299.99,-1,---
+ORD-1031,01/23/2023,david taylor,,52,US,Electronics,49.99,3,
+ORD-1032,01/24/2023,  Robert Johnson ,,45,United States,ELECTRONICS,19.99,3,Customer requested return due to damaged packaging.
+ORD-1033,1674611033,John Smith,alice_b@hotmail.com,-5,Canada,electronics,0.0,2,---
+ORD-1034,1674674058,mARy dAVIS,marydavis@domain,,u.s.a.,Home,-50.0,3,n/a
+ORD-1035,2023/01/26 12:44:43,Sarah Miller,marydavis@domain,45,CAN,Clothing & Apparel,49.99,1,Customer requested return due to damaged packaging.
+ORD-1036,2023-01-27,Michael Wilson,m.wilson@corp.org,25,United States of America,Sports ,9999.0,5,Customer requested return due to damaged packaging.
+ORD-1037,01/27/2023,John Smith,james.a@yahoo.com,45,USA, Home & Kitchen,299.99,5,Customer requested return due to damaged packaging.
+ORD-1038,28-Jan-2023,mARy dAVIS,JANE.DOE@YAHOO.COM,150,u.s.a.,  ,9999.0,-1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1039,2023-01-29,mARy dAVIS,marydavis@domain,999,USA,Clothing & Apparel,0.0,4,Satisfied with purchase. Will buy again!
+ORD-1040,01/30/2023,Michael Wilson,robert.j@gmail.com,34,,clothing,1200.5,3,n/a
+ORD-1041,2023-01-30,  Robert Johnson ,alice_b@hotmail.com,-5,USA,Toys,9999.0,1,
+ORD-1042,,mARy dAVIS,m.wilson@corp.org,999,u.s.a.,Home,,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1043,1675241285,Sarah Miller,david.t@gmail.com,45,UK,  ,1200.5,3,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1044,2023-02-02,mARy dAVIS,john.smith@gmail.com,,United Kingdom,Toys,1200.5,2,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1044,02-Feb-2023,mARy dAVIS,david.t@gmail.com,34,CAN,Home,49.99,4,Package left at front desk. Signed by guard.
+ORD-1046,2023-02-03,mARy dAVIS,,52,United States,Electronics,1200.5,3,Package left at front desk. Signed by guard.
+ORD-1047,04-Feb-2023,James Anderson,john.smith@gmail.com,18,United States,Sports ,150.0,1,Customer requested return due to damaged packaging.
+ORD-1048,05-Feb-2023,James Anderson,JANE.DOE@YAHOO.COM,34,CAN,Clothing & Apparel,0.0,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1049,02/05/2023,  Robert Johnson ,robert.j@gmail.com,150,UK,ELECTRONICS,1200.5,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1050,1675682462,John Smith,john.smith@gmail.com,150,INDIA,Home,9999.0,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1051,2023/02/07 04:51:27,mARy dAVIS,james.a@yahoo.com,45, India ,ELECTRONICS,19.99,10,Satisfied with purchase. Will buy again!
+ORD-1052,1675808513,david taylor,david.t@gmail.com,25,United States,Sports ,150.0,,Satisfied with purchase. Will buy again!
+ORD-1053,1675871538,John Smith,JANE.DOE@YAHOO.COM,150,INDIA, Home & Kitchen,150.0,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1054,09-Feb-2023,  Robert Johnson ,james.a@yahoo.com,150,USA,clothing,,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1055,1675997588,ALICE BROWN,,,uk,Clothing & Apparel,1200.5,5,---
+ORD-1056,02/10/2023,John Smith,james.a@yahoo.com,45,United States of America,Sports ,,-1,Satisfied with purchase. Will buy again!
+ORD-1057,02/11/2023,John Smith,m.wilson@corp.org,34,,Sports ,,5,Satisfied with purchase. Will buy again!
+ORD-1058,,,m.wilson@corp.org,25,US,Electronics,19.99,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1059,2023-02-13,jane doe,alice_b@hotmail.com,999,United States,Toys,49.99,5,ITEM DEFECTIVE - Screen cracked on arrival.
+100060,2023-02-13,,JANE.DOE@YAHOO.COM,18,CAN,clothing,1200.5,1,Satisfied with purchase. Will buy again!
+ORD-1061,2023-02-14,Sarah Miller,,-5,uk,Clothing & Apparel,299.99,5,n/a
+ORD-1062,2023/02/15 05:26:05,James Anderson,marydavis@domain,52,u.s.a., Home & Kitchen,,4,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1063,2023-02-15,James Anderson,m.wilson@corp.org,150,in, Home & Kitchen,0.0,10,Package left at front desk. Signed by guard.
+ORD-1064,2023-02-16,jane doe,JANE.DOE@YAHOO.COM,45,United Kingdom,electronics,-50.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1065,17-Feb-2023,Michael Wilson,marydavis@domain,-5,CAN,Sports ,0.0,5,Satisfied with purchase. Will buy again!
+ORD-1066,02/18/2023,Michael Wilson,alice_b@hotmail.com,52, India ,Home,19.99,2,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1067,2023/02/18 20:58:11,  Robert Johnson ,james.a@yahoo.com,52,in,Electronics,19.99,10,Package left at front desk. Signed by guard.
+ORD-1068,02/19/2023,jane doe,m.wilson@corp.org,999,in,clothing,9999.0,10,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1069,1676879942,John Smith,JANE.DOE@YAHOO.COM,999,USA, Home & Kitchen,49.99,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1070,2023/02/21 01:29:27,Michael Wilson,john.smith@gmail.com,999,United Kingdom,Clothing & Apparel,,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1071,02/21/2023,mARy dAVIS,marydavis@domain,67,United States of America,electronics,0.0,-1,Package left at front desk. Signed by guard.
+ORD-1072,,david taylor,james.a@yahoo.com,67,United States of America,Clothing & Apparel,-50.0,5,Wrong item shipped. Need refund ASAP.
+ORD-1073,2023/02/23 06:00:43,John Smith,m.wilson@corp.org,52,UK,Electronics,19.99,1,Wrong item shipped. Need refund ASAP.
+ORD-1074,2023/02/23 23:31:08,Sarah Miller,,999,INDIA,Home,19.99,100,ITEM DEFECTIVE - Screen cracked on arrival.
+100075,2023/02/24 17:01:33,mARy dAVIS,marydavis@domain,,Canada,electronics,49.99,4,Customer requested return due to damaged packaging.
+ORD-1076,2023/02/25 10:31:59,mARy dAVIS,m.wilson@corp.org,150,in,electronics,-50.0,,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1077,02/26/2023,jane doe,marydavis@domain,-5,UK,Toys,-50.0,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1078,2023-02-26,  Robert Johnson ,james.a@yahoo.com,-5, India ,clothing,49.99,1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1079,02/27/2023,Sarah Miller,m.wilson@corp.org,67,INDIA,electronics,19.99,3,Wrong item shipped. Need refund ASAP.
+ORD-1080,1677573220,Michael Wilson,david.t@gmail.com,52,,Toys,1200.5,3,
+ORD-1081,01-Mar-2023,jane doe,JANE.DOE@YAHOO.COM,45,in,Toys,1200.5,4,Satisfied with purchase. Will buy again!
+ORD-1082,2023-03-01,Michael Wilson,james.a@yahoo.com,34,uk,Electronics,49.99,10,Satisfied with purchase. Will buy again!
+ORD-1083,03/02/2023,jane doe,marydavis@domain,34,United Kingdom,ELECTRONICS,-50.0,-1,Satisfied with purchase. Will buy again!
+ORD-1084,2023-03-03,jane doe,,67,Canada,Clothing & Apparel,,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1085,2023-03-04,jane doe,john.smith@gmail.com,45,u.s.a.,Home,49.99,10,Package left at front desk. Signed by guard.
+ORD-1086,2023/03/04 17:36:11,  Robert Johnson ,marydavis@domain,67,USA,  ,49.99,1,---
+ORD-1087,05-Mar-2023,jane doe,JANE.DOE@YAHOO.COM,34,United Kingdom,Clothing & Apparel,150.0,100,Wrong item shipped. Need refund ASAP.
+ORD-1088,1678077422,ALICE BROWN,m.wilson@corp.org,45,UK,electronics,0.0,-1,Wrong item shipped. Need refund ASAP.
+ORD-1089,2023-03-06,david taylor,john.smith@gmail.com,999,US,Home,-50.0,,
+100090,03/07/2023,Michael Wilson,robert.j@gmail.com,52,canada, Home & Kitchen,9999.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1091,2023/03/08 09:08:17,John Smith,marydavis@domain,-5,Canada,ELECTRONICS,9999.0,2,Customer requested return due to damaged packaging.
+ORD-1092,2023/03/09 02:38:43,,alice_b@hotmail.com,,Canada, Home & Kitchen,-50.0,1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1093,09-Mar-2023,Sarah Miller,robert.j@gmail.com,25, India , Home & Kitchen,150.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1094,2023/03/10 13:39:33,James Anderson,marydavis@domain,52,USA,clothing,150.0,5,Package left at front desk. Signed by guard.
+ORD-1095,2023-03-11,  Robert Johnson ,david.t@gmail.com,999,United States,Clothing & Apparel,19.99,2,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1096,12-Mar-2023,John Smith,alice_b@hotmail.com,34,United States of America,  ,0.0,3,Wrong item shipped. Need refund ASAP.
+ORD-1097,2023-03-12,mARy dAVIS,john.smith@gmail.com,999,United States of America,Electronics,1200.5,4,Package left at front desk. Signed by guard.
+ORD-1098,,ALICE BROWN,,67,,  ,299.99,-1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1099,03/14/2023,James Anderson,david.t@gmail.com,45,US, Home & Kitchen,299.99,3,
+ORD-1100,,,robert.j@gmail.com,-5,uk,electronics,299.99,,
+ORD-1101,15-Mar-2023,John Smith,m.wilson@corp.org,150, India ,ELECTRONICS,-50.0,100,n/a
+ORD-1101,2023-03-16,James Anderson,JANE.DOE@YAHOO.COM,67,uk,Sports ,9999.0,4,---
+ORD-1103,17-Mar-2023,John Smith,,52,u.s.a.,  ,9999.0,1,
+ORD-1104,1679085826,ALICE BROWN,david.t@gmail.com,67,INDIA, Home & Kitchen,1200.5,1,Wrong item shipped. Need refund ASAP.
+1000105,03/18/2023,,m.wilson@corp.org,52,United Kingdom,ELECTRONICS,-50.0,1,Customer requested return due to damaged packaging.
+ORD-1106,2023-03-19,mARy dAVIS,m.wilson@corp.org,150,,Home,299.99,1,Satisfied with purchase. Will buy again!
+ORD-1107,2023/03/20 01:15:01,jane doe,marydavis@domain,18,,Clothing & Apparel,,100,n/a
+ORD-1108,03/20/2023,Michael Wilson,david.t@gmail.com,-5,canada,Toys,9999.0,3,Satisfied with purchase. Will buy again!
+ORD-1109,03/21/2023,mARy dAVIS,john.smith@gmail.com,,CAN,clothing,19.99,10,---
+ORD-1110,2023-03-22,jane doe,alice_b@hotmail.com,,United States,ELECTRONICS,49.99,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1111,03/22/2023,  Robert Johnson ,alice_b@hotmail.com,25,UK,electronics,,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1112,1679590028,david taylor,robert.j@gmail.com,999,in,electronics,9999.0,-1,
+ORD-1113,2023/03/24 10:17:33,Sarah Miller,robert.j@gmail.com,18,CAN,ELECTRONICS,150.0,2,Customer requested return due to damaged packaging.
+ORD-1114,25-Mar-2023,Sarah Miller,alice_b@hotmail.com,,INDIA,electronics,9999.0,10,---
+ORD-1115,1679779103,Michael Wilson,john.smith@gmail.com,67,CAN,Clothing & Apparel,19.99,10,Satisfied with purchase. Will buy again!
+ORD-1116,2023/03/26 14:48:49,,JANE.DOE@YAHOO.COM,999, India ,electronics,299.99,3,n/a
+ORD-1117,03/27/2023,ALICE BROWN,james.a@yahoo.com,18,in,  ,150.0,10,
+ORD-1118,1679968179,,JANE.DOE@YAHOO.COM,45,Canada,Toys,-50.0,5,Wrong item shipped. Need refund ASAP.
+ORD-1119,28-Mar-2023,ALICE BROWN,marydavis@domain,45,US,electronics,0.0,2,
+1000120,2023/03/29 12:50:30,,james.a@yahoo.com,999,United States of America,Toys,299.99,,n/a
+ORD-1121,1680157255,david taylor,james.a@yahoo.com,52,u.s.a., Home & Kitchen,0.0,100,n/a
+ORD-1122,2023-03-30,  Robert Johnson ,david.t@gmail.com,52,uk,Electronics,,3,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1123,03/31/2023,  Robert Johnson ,john.smith@gmail.com,67,canada,Clothing & Apparel,49.99,100,
+ORD-1124,04/01/2023,jane doe,john.smith@gmail.com,18, India ,Electronics,150.0,,
+ORD-1125,2023-04-02,James Anderson,james.a@yahoo.com,18,US, Home & Kitchen,1200.5,3,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1126,2023/04/02 21:53:01,  Robert Johnson ,david.t@gmail.com,999,Canada,Clothing & Apparel,150.0,3,Package left at front desk. Signed by guard.
+ORD-1127,1680535406,  Robert Johnson ,james.a@yahoo.com,34,UK,ELECTRONICS,9999.0,2,Package left at front desk. Signed by guard.
+ORD-1128,,mARy dAVIS,,45,u.s.a.,ELECTRONICS,9999.0,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1129,05-Apr-2023,mARy dAVIS,robert.j@gmail.com,18, India ,Toys,9999.0,1,Package left at front desk. Signed by guard.
+ORD-1130,2023-04-05,jane doe,robert.j@gmail.com,999,Canada, Home & Kitchen,,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1131,04/06/2023,James Anderson,JANE.DOE@YAHOO.COM,150,canada,Toys,299.99,-1,
+ORD-1132,04/07/2023,Michael Wilson,marydavis@domain,25,United States of America,clothing,1200.5,-1,Customer requested return due to damaged packaging.
+ORD-1133,2023-04-08,mARy dAVIS,robert.j@gmail.com,150,,electronics,1200.5,3,
+ORD-1134,1680976583,Michael Wilson,m.wilson@corp.org,-5,United States of America,Sports ,9999.0,1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+1000135,2023-04-09,John Smith,JANE.DOE@YAHOO.COM,67, India ,clothing,0.0,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1136,10-Apr-2023,mARy dAVIS,robert.j@gmail.com,18,United States of America,electronics,,,Satisfied with purchase. Will buy again!
+ORD-1137,2023/04/10 22:27:39,david taylor,marydavis@domain,-5,US,Clothing & Apparel,9999.0,5,
+ORD-1138,2023-04-11,James Anderson,john.smith@gmail.com,,US,Toys,49.99,1,---
+ORD-1139,1681291709,jane doe,john.smith@gmail.com,-5,uk,Clothing & Apparel,299.99,5,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1140,1681354735,John Smith,james.a@yahoo.com,999, India ,Clothing & Apparel,-50.0,100,Customer requested return due to damaged packaging.
+ORD-1141,2023-04-13,James Anderson,,18,uk,electronics,49.99,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1142,2023-04-14,david taylor,john.smith@gmail.com,25, India , Home & Kitchen,0.0,5,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1143,2023-04-15,James Anderson,david.t@gmail.com,999,,electronics,150.0,,Satisfied with purchase. Will buy again!
+ORD-1144,2023-04-16,david taylor,robert.j@gmail.com,999,,Home,150.0,1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1145,,david taylor,david.t@gmail.com,67,UK,ELECTRONICS,49.99,4,Satisfied with purchase. Will buy again!
+ORD-1146,17-Apr-2023,Michael Wilson,marydavis@domain,67, India ,ELECTRONICS,9999.0,3,Customer requested return due to damaged packaging.
+ORD-1147,18-Apr-2023,,john.smith@gmail.com,45,canada,clothing,-50.0,2,n/a
+ORD-1148,04/18/2023,John Smith,,45,INDIA,ELECTRONICS,19.99,100,
+ORD-1149,2023-04-19,James Anderson,marydavis@domain,52,u.s.a.,electronics,19.99,-1,Wrong item shipped. Need refund ASAP.
+1000150,1681984987,ALICE BROWN,m.wilson@corp.org,34,USA,  ,0.0,,---
+ORD-1151,04/21/2023,John Smith,m.wilson@corp.org,18,in,Toys,9999.0,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1152,04/21/2023,,david.t@gmail.com,18,USA,electronics,1200.5,4,
+ORD-1153,2023-04-22,John Smith,james.a@yahoo.com,-5,Canada,electronics,1200.5,10,---
+ORD-1154,1682237088,  Robert Johnson ,JANE.DOE@YAHOO.COM,18,,Sports ,299.99,3,n/a
+ORD-1155,04/24/2023,ALICE BROWN,james.a@yahoo.com,18,United States of America,Toys,-50.0,100,Wrong item shipped. Need refund ASAP.
+ORD-1156,24-Apr-2023,,james.a@yahoo.com,34,u.s.a.,Home,-50.0,3,---
+ORD-1157,2023/04/25 12:36:04,Michael Wilson,,,CAN,ELECTRONICS,150.0,2,---
+ORD-1158,04/26/2023,James Anderson,john.smith@gmail.com,45,INDIA,Toys,,3,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1159,2023/04/26 23:36:54,Sarah Miller,,45,US,ELECTRONICS,0.0,10,Package left at front desk. Signed by guard.
+ORD-1160,2023-04-27,,marydavis@domain,25,United Kingdom,clothing,19.99,2,Wrong item shipped. Need refund ASAP.
+ORD-1161,28-Apr-2023,jane doe,m.wilson@corp.org,18,United States,Toys,0.0,100,
+ORD-1162,29-Apr-2023,James Anderson,,34,UK,ELECTRONICS,1200.5,1,n/a
+ORD-1163,29-Apr-2023,,marydavis@domain,45,United States of America,Home,1200.5,-1,Wrong item shipped. Need refund ASAP.
+ORD-1164,04/30/2023,  Robert Johnson ,,34,United States of America,Electronics,49.99,2,Customer requested return due to damaged packaging.
+1000165,2023/05/01 08:39:26,Sarah Miller,james.a@yahoo.com,150,canada,Clothing & Apparel,299.99,10,Package left at front desk. Signed by guard.
+ORD-1166,2023-05-02,  Robert Johnson ,robert.j@gmail.com,,United States of America,Clothing & Apparel,-50.0,2,Customer requested return due to damaged packaging.
+ORD-1167,05/02/2023,Sarah Miller,david.t@gmail.com,18,US,Home,0.0,2,n/a
+ORD-1168,,jane doe,JANE.DOE@YAHOO.COM,25,US,Sports ,1200.5,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1169,04-May-2023,James Anderson,,-5,United States,Electronics,,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1170,05-May-2023,Michael Wilson,JANE.DOE@YAHOO.COM,45,in,clothing,150.0,-1,n/a
+ORD-1171,,  Robert Johnson ,alice_b@hotmail.com,150, India ,Home,19.99,3,Satisfied with purchase. Will buy again!
+ORD-1172,06-May-2023,  Robert Johnson ,,34,CAN,Clothing & Apparel,299.99,100,n/a
+ORD-1173,05/07/2023,david taylor,robert.j@gmail.com,67,u.s.a.,Clothing & Apparel,,-1,Package left at front desk. Signed by guard.
+ORD-1174,07-May-2023,Sarah Miller,JANE.DOE@YAHOO.COM,999,United States of America,Clothing & Apparel,299.99,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1175,05/08/2023,mARy dAVIS,,18,USA, Home & Kitchen,49.99,-1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1176,09-May-2023,James Anderson,john.smith@gmail.com,18,uk,Home,1200.5,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1177,2023-05-10,Sarah Miller,david.t@gmail.com,150,canada,electronics,150.0,-1,Package left at front desk. Signed by guard.
+ORD-1178,1683749694,david taylor,robert.j@gmail.com,34,canada,clothing,,5,Package left at front desk. Signed by guard.
+ORD-1179,05/11/2023,John Smith,JANE.DOE@YAHOO.COM,52,in,Clothing & Apparel,299.99,-1,Package left at front desk. Signed by guard.
+1000180,2023-05-12,Sarah Miller,robert.j@gmail.com,18,USA,ELECTRONICS,-50.0,1,---
+ORD-1181,05/13/2023,Michael Wilson,marydavis@domain,52,Canada,Home,49.99,1,Package left at front desk. Signed by guard.
+ORD-1182,1684001795,James Anderson,david.t@gmail.com,67,USA, Home & Kitchen,-50.0,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1183,1684064820,david taylor,,150,INDIA,Home,150.0,5,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1184,2023-05-15,John Smith,,34,Canada,clothing,,5,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1185,15-May-2023,ALICE BROWN,,34,United Kingdom, Home & Kitchen,49.99,3,Package left at front desk. Signed by guard.
+ORD-1186,2023/05/16 16:18:16,david taylor,david.t@gmail.com,,,clothing,,5,Customer requested return due to damaged packaging.
+ORD-1187,17-May-2023,ALICE BROWN,john.smith@gmail.com,999,uk,Home,1200.5,3,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1188,18-May-2023,James Anderson,alice_b@hotmail.com,45,,electronics,9999.0,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1189,05/18/2023,  Robert Johnson ,m.wilson@corp.org,45,canada,clothing,49.99,,Wrong item shipped. Need refund ASAP.
+ORD-1190,05/19/2023,david taylor,james.a@yahoo.com,-5,USA, Home & Kitchen,-50.0,10,
+ORD-1191,1684569022,jane doe,JANE.DOE@YAHOO.COM,25,United Kingdom, Home & Kitchen,150.0,1,Satisfied with purchase. Will buy again!
+ORD-1192,1684632048,ALICE BROWN,john.smith@gmail.com,150, India ,clothing,1200.5,-1,Satisfied with purchase. Will buy again!
+ORD-1193,21-May-2023,Michael Wilson,JANE.DOE@YAHOO.COM,67,UK,  ,9999.0,-1,Customer requested return due to damaged packaging.
+ORD-1194,2023-05-22,jane doe,,34,u.s.a.,Home,19.99,4,Satisfied with purchase. Will buy again!
+1000195,2023-05-23,,robert.j@gmail.com,999,United Kingdom,  ,1200.5,100,Wrong item shipped. Need refund ASAP.
+ORD-1196,2023/05/23 23:22:29,,JANE.DOE@YAHOO.COM,52,in,Sports ,150.0,10,n/a
+ORD-1197,1684947174,John Smith,,150,INDIA,Home,299.99,4,Satisfied with purchase. Will buy again!
+ORD-1198,1685010199,  Robert Johnson ,JANE.DOE@YAHOO.COM,-5,u.s.a.,clothing,49.99,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1199,2023/05/26 03:53:44,James Anderson,robert.j@gmail.com,150,USA,Electronics,,2,n/a
+ORD-1200,26-May-2023,david taylor,,-5,CAN,clothing,150.0,2,Satisfied with purchase. Will buy again!
+ORD-1201,05/27/2023,mARy dAVIS,alice_b@hotmail.com,34, India ,  ,49.99,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1202,05/28/2023,Michael Wilson,john.smith@gmail.com,25,United Kingdom,electronics,,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1203,1685325325,ALICE BROWN,marydavis@domain,-5,uk,clothing,0.0,100,Package left at front desk. Signed by guard.
+ORD-1204,29-May-2023,James Anderson,james.a@yahoo.com,34,USA,clothing,-50.0,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1205,,jane doe,david.t@gmail.com,34,United States of America,electronics,19.99,4,Customer requested return due to damaged packaging.
+ORD-1206,05/31/2023,,james.a@yahoo.com,25,US,clothing,1200.5,-1,Wrong item shipped. Need refund ASAP.
+ORD-1207,31-May-2023,Michael Wilson,james.a@yahoo.com,45,United Kingdom,Clothing & Apparel,150.0,100,---
+ORD-1208,,mARy dAVIS,,150,uk,Electronics,19.99,2,
+ORD-1209,06/02/2023,david taylor,alice_b@hotmail.com,18,INDIA,ELECTRONICS,299.99,-1,Satisfied with purchase. Will buy again!
+ORD-1209,03-Jun-2023,John Smith,marydavis@domain,18,UK,Electronics,49.99,2,Satisfied with purchase. Will buy again!
+ORD-1211,03-Jun-2023,mARy dAVIS,john.smith@gmail.com,52,United States of America,clothing,49.99,2,n/a
+ORD-1212,04-Jun-2023,Michael Wilson,john.smith@gmail.com,52,,Clothing & Apparel,150.0,100,n/a
+ORD-1213,06/05/2023,mARy dAVIS,robert.j@gmail.com,18,UK,Home,9999.0,2,
+ORD-1214,2023/06/06 02:30:03,Michael Wilson,david.t@gmail.com,67,,clothing,9999.0,,Satisfied with purchase. Will buy again!
+ORD-1215,06/06/2023,Michael Wilson,JANE.DOE@YAHOO.COM,18,USA,  ,0.0,1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1216,2023-06-07,Sarah Miller,alice_b@hotmail.com,52,US,Clothing & Apparel,-50.0,,Wrong item shipped. Need refund ASAP.
+ORD-1217,2023/06/08 07:01:19,ALICE BROWN,JANE.DOE@YAHOO.COM,999,United Kingdom,electronics,,1,Satisfied with purchase. Will buy again!
+ORD-1218,09-Jun-2023,,marydavis@domain,52,United Kingdom,Clothing & Apparel,299.99,2,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1219,2023/06/09 18:02:09,Sarah Miller,james.a@yahoo.com,67,CAN,electronics,19.99,10,
+ORD-1220,10-Jun-2023,david taylor,john.smith@gmail.com,150,canada,Sports ,9999.0,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1221,11-Jun-2023,Sarah Miller,marydavis@domain,18,CAN,ELECTRONICS,0.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1222,06/11/2023,  Robert Johnson ,james.a@yahoo.com,25,in,Toys,0.0,-1,Satisfied with purchase. Will buy again!
+ORD-1223,2023-06-12,  Robert Johnson ,john.smith@gmail.com,999,USA,Clothing & Apparel,150.0,100,---
+ORD-1224,2023-06-13,,james.a@yahoo.com,34,USA, Home & Kitchen,299.99,2,Package left at front desk. Signed by guard.
+1000225,06/14/2023,mARy dAVIS,david.t@gmail.com,67,US,  ,,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1226,1686774906,ALICE BROWN,alice_b@hotmail.com,52,CAN,clothing,-50.0,,---
+ORD-1227,2023-06-15,,marydavis@domain,25,uk,  ,1200.5,10,n/a
+ORD-1228,1686900957,Michael Wilson,marydavis@domain,-5,,Electronics,150.0,5,n/a
+ORD-1229,17-Jun-2023,jane doe,m.wilson@corp.org,45,uk,Toys,,,Satisfied with purchase. Will buy again!
+ORD-1230,2023/06/17 18:36:47,ALICE BROWN,,18,US,Electronics,1200.5,,n/a
+ORD-1231,18-Jun-2023,ALICE BROWN,david.t@gmail.com,45, India ,Sports ,1200.5,1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1232,19-Jun-2023,Michael Wilson,david.t@gmail.com,67,canada,Toys,299.99,3,Wrong item shipped. Need refund ASAP.
+ORD-1233,2023-06-19,Michael Wilson,JANE.DOE@YAHOO.COM,-5,uk,Toys,299.99,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1234,06/20/2023,John Smith,james.a@yahoo.com,-5,Canada,Electronics,19.99,2,Customer requested return due to damaged packaging.
+ORD-1235,2023/06/21 10:08:53,,,-5,in,electronics,0.0,4,
+ORD-1236,2023-06-22,Michael Wilson,alice_b@hotmail.com,34,u.s.a.,Electronics,,4,Wrong item shipped. Need refund ASAP.
+ORD-1237,,  Robert Johnson ,alice_b@hotmail.com,67,US,  ,150.0,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1238,23-Jun-2023,david taylor,david.t@gmail.com,150,US,electronics,49.99,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1239,06/24/2023,jane doe,alice_b@hotmail.com,45,United States,  ,150.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+1000240,1687657260,,m.wilson@corp.org,150,,Sports ,19.99,1,---
+ORD-1241,1687720285,James Anderson,marydavis@domain,25,in,clothing,-50.0,10,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1242,1687783310,  Robert Johnson ,robert.j@gmail.com,,United States of America,Home,0.0,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1243,2023-06-27,mARy dAVIS,JANE.DOE@YAHOO.COM,999,United States of America,electronics,49.99,3,Package left at front desk. Signed by guard.
+ORD-1244,,Michael Wilson,james.a@yahoo.com,999,Canada,Sports ,9999.0,5,---
+ORD-1245,1687972386,James Anderson,james.a@yahoo.com,150,CAN, Home & Kitchen,-50.0,1,n/a
+ORD-1246,2023-06-29,Michael Wilson,john.smith@gmail.com,,in,Sports ,299.99,-1,n/a
+ORD-1247,1688098436,ALICE BROWN,robert.j@gmail.com,, India ,Electronics,1200.5,1,---
+ORD-1248,1688161462,  Robert Johnson ,david.t@gmail.com,18,USA,Electronics,9999.0,,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1249,1688224487,ALICE BROWN,m.wilson@corp.org,25,USA,Home,150.0,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1250,2023-07-02,John Smith,marydavis@domain,67,UK,Sports ,150.0,-1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1251,2023-07-03,ALICE BROWN,marydavis@domain,,,ELECTRONICS,299.99,-1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1252,1688413563,John Smith,m.wilson@corp.org,52,Canada,clothing,19.99,5,
+ORD-1253,2023-07-04,John Smith,,999,US,Electronics,,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1254,07/05/2023,James Anderson,john.smith@gmail.com,52,Canada,Home,9999.0,5,Satisfied with purchase. Will buy again!
+1000255,06-Jul-2023,Michael Wilson,james.a@yahoo.com,25,Canada,clothing,9999.0,1,Customer requested return due to damaged packaging.
+ORD-1256,1688665664,mARy dAVIS,robert.j@gmail.com,,INDIA,Sports ,-50.0,100,---
+ORD-1257,07-Jul-2023,ALICE BROWN,alice_b@hotmail.com,45,Canada,Sports ,0.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1258,08-Jul-2023,  Robert Johnson ,john.smith@gmail.com,999,United States of America,Toys,-50.0,4,Customer requested return due to damaged packaging.
+ORD-1259,07/08/2023,John Smith,robert.j@gmail.com,18,INDIA,Home,,,Package left at front desk. Signed by guard.
+ORD-1260,09-Jul-2023,Michael Wilson,JANE.DOE@YAHOO.COM,18,,Electronics,150.0,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1261,1688980790,jane doe,JANE.DOE@YAHOO.COM,-5,Canada,ELECTRONICS,150.0,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1262,07/11/2023,,john.smith@gmail.com,34,canada,Sports ,150.0,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1263,11-Jul-2023,James Anderson,david.t@gmail.com,,u.s.a.,ELECTRONICS,150.0,3,Customer requested return due to damaged packaging.
+ORD-1264,1689169866,mARy dAVIS,robert.j@gmail.com,25,USA,Sports ,,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1265,2023/07/13 07:21:31,Sarah Miller,robert.j@gmail.com,999,INDIA,Electronics,299.99,5,Wrong item shipped. Need refund ASAP.
+ORD-1266,14-Jul-2023,James Anderson,m.wilson@corp.org,34,UK,clothing,0.0,1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1267,2023/07/14 18:22:21,jane doe,david.t@gmail.com,25,in,Clothing & Apparel,,5,Customer requested return due to damaged packaging.
+ORD-1268,2023-07-15,,james.a@yahoo.com,150,u.s.a.,clothing,0.0,10,---
+ORD-1269,2023-07-16,jane doe,james.a@yahoo.com,,UK,Sports ,,-1,Package left at front desk. Signed by guard.
+1000270,2023/07/16 22:53:37,ALICE BROWN,alice_b@hotmail.com,67,United States,  ,150.0,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1271,2023/07/17 16:24:02,John Smith,marydavis@domain,67,UK,Clothing & Apparel,299.99,3,Wrong item shipped. Need refund ASAP.
+ORD-1272,1689674068,mARy dAVIS,JANE.DOE@YAHOO.COM,,USA,Clothing & Apparel,9999.0,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1273,1689737093,david taylor,james.a@yahoo.com,-5,USA,ELECTRONICS,-50.0,3,Satisfied with purchase. Will buy again!
+ORD-1274,19-Jul-2023,John Smith,david.t@gmail.com,-5,INDIA,Home,1200.5,,Package left at front desk. Signed by guard.
+ORD-1275,20-Jul-2023,david taylor,robert.j@gmail.com,67,Canada,ELECTRONICS,299.99,-1,
+ORD-1276,2023/07/21 07:56:09,,james.a@yahoo.com,45,United Kingdom,ELECTRONICS,9999.0,,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1277,22-Jul-2023,Michael Wilson,robert.j@gmail.com,999,United States,  ,19.99,2,n/a
+ORD-1278,2023/07/22 18:56:59,Sarah Miller,james.a@yahoo.com,67,INDIA,clothing,,5,Customer requested return due to damaged packaging.
+ORD-1279,2023/07/23 12:27:24,  Robert Johnson ,JANE.DOE@YAHOO.COM,45,canada,clothing,19.99,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1280,1690178270,John Smith,james.a@yahoo.com,34,US, Home & Kitchen,9999.0,2,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1281,2023-07-24,mARy dAVIS,david.t@gmail.com,45,uk,Sports ,299.99,,Wrong item shipped. Need refund ASAP.
+ORD-1282,2023-07-25,jane doe,james.a@yahoo.com,34,in,  ,,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1283,07/26/2023,mARy dAVIS,marydavis@domain,25,UK, Home & Kitchen,1200.5,10,
+ORD-1284,27-Jul-2023,,JANE.DOE@YAHOO.COM,52,United Kingdom,Electronics,150.0,10,Package left at front desk. Signed by guard.
+1000285,,david taylor,david.t@gmail.com,25,Canada,Sports ,,100,Package left at front desk. Signed by guard.
+ORD-1286,2023-07-28,jane doe,m.wilson@corp.org,67,United States of America,Sports ,,10,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1287,29-Jul-2023,  Robert Johnson ,david.t@gmail.com,34,,Toys,299.99,1,Wrong item shipped. Need refund ASAP.
+ORD-1288,2023-07-30,  Robert Johnson ,marydavis@domain,67,US,Toys,299.99,4,Package left at front desk. Signed by guard.
+ORD-1289,30-Jul-2023,John Smith,JANE.DOE@YAHOO.COM,, India ,electronics,9999.0,-1,Package left at front desk. Signed by guard.
+ORD-1290,,,m.wilson@corp.org,999,CAN,electronics,49.99,2,
+ORD-1291,,Michael Wilson,marydavis@domain,18,United Kingdom,ELECTRONICS,,,Customer requested return due to damaged packaging.
+ORD-1292,2023/08/02 00:02:53,,marydavis@domain,67,,Electronics,-50.0,100,Wrong item shipped. Need refund ASAP.
+ORD-1293,2023-08-02,david taylor,john.smith@gmail.com,999,United States of America,Clothing & Apparel,,100,Wrong item shipped. Need refund ASAP.
+ORD-1294,08/03/2023,mARy dAVIS,JANE.DOE@YAHOO.COM,45,United States,Clothing & Apparel,9999.0,-1,---
+ORD-1295,04-Aug-2023,  Robert Johnson ,david.t@gmail.com,25, India ,Toys,0.0,4,---
+ORD-1296,2023/08/04 22:04:34,mARy dAVIS,robert.j@gmail.com,45,INDIA,Toys,19.99,2,Package left at front desk. Signed by guard.
+ORD-1297,08/05/2023,mARy dAVIS,robert.j@gmail.com,18,Canada,Toys,150.0,3,n/a
+ORD-1298,06-Aug-2023,mARy dAVIS,david.t@gmail.com,34,US,  ,49.99,10,---
+ORD-1299,08/07/2023,  Robert Johnson ,david.t@gmail.com,,US,Home,1200.5,5,Package left at front desk. Signed by guard.
+1000300,08/07/2023,James Anderson,JANE.DOE@YAHOO.COM,999,US,electronics,1200.5,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1301,08-Aug-2023,ALICE BROWN,david.t@gmail.com,,United States,  ,1200.5,10,Satisfied with purchase. Will buy again!
+ORD-1302,09-Aug-2023,david taylor,john.smith@gmail.com,52, India ,clothing,299.99,10,Satisfied with purchase. Will buy again!
+ORD-1303,10-Aug-2023,James Anderson,m.wilson@corp.org,67,UK,Clothing & Apparel,1200.5,1,Wrong item shipped. Need refund ASAP.
+ORD-1304,2023/08/10 18:07:56,david taylor,david.t@gmail.com,34,CAN,Sports ,150.0,4,n/a
+ORD-1305,1691753901,jane doe,robert.j@gmail.com,52,canada,electronics,19.99,5,
+ORD-1306,12-Aug-2023,,david.t@gmail.com,150,United States, Home & Kitchen,1200.5,3,Customer requested return due to damaged packaging.
+ORD-1307,2023-08-12,,john.smith@gmail.com,67,uk,clothing,,,---
+ORD-1308,2023/08/13 16:09:37,Sarah Miller,james.a@yahoo.com,45,in,electronics,,1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1309,2023-08-14,,james.a@yahoo.com,25,in,  ,299.99,10,Package left at front desk. Signed by guard.
+ORD-1310,2023-08-15,  Robert Johnson ,marydavis@domain,999,CAN,Electronics,150.0,10,n/a
+ORD-1311,08/15/2023,Michael Wilson,alice_b@hotmail.com,18,USA,Sports ,19.99,5,Wrong item shipped. Need refund ASAP.
+ORD-1312,,John Smith,m.wilson@corp.org,18,in,electronics,49.99,5,---
+ORD-1313,1692258103,Sarah Miller,,45,Canada,Home,9999.0,5,n/a
+ORD-1314,2023/08/18 01:12:08,John Smith,marydavis@domain,-5,United States,Toys,19.99,10,---
+ORD-1314,18-Aug-2023,david taylor,james.a@yahoo.com,18,United States of America,Toys,9999.0,100,Customer requested return due to damaged packaging.
+ORD-1316,2023-08-19,John Smith,robert.j@gmail.com,999,CAN,Sports ,0.0,2,Customer requested return due to damaged packaging.
+ORD-1317,08/20/2023,John Smith,,45,uk,  ,9999.0,10,
+ORD-1318,08/20/2023,Sarah Miller,marydavis@domain,34,USA,Toys,-50.0,1,Satisfied with purchase. Will buy again!
+ORD-1319,2023-08-21,jane doe,,18,UK,electronics,,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1320,22-Aug-2023,mARy dAVIS,JANE.DOE@YAHOO.COM,, India , Home & Kitchen,150.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1321,2023/08/23 03:45:05,,alice_b@hotmail.com,45,United States of America,Clothing & Apparel,299.99,,---
+ORD-1322,23-Aug-2023,,JANE.DOE@YAHOO.COM,999,INDIA,Clothing & Apparel,-50.0,3,
+ORD-1323,2023-08-24,  Robert Johnson ,,,CAN,clothing,9999.0,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1324,1692951381,Sarah Miller,JANE.DOE@YAHOO.COM,67,Canada,ELECTRONICS,1200.5,1,Wrong item shipped. Need refund ASAP.
+ORD-1325,2023/08/26 01:46:46,  Robert Johnson ,john.smith@gmail.com,67, India ,Electronics,150.0,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1326,26-Aug-2023,Michael Wilson,james.a@yahoo.com,18,United States of America,Sports ,-50.0,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1327,27-Aug-2023,Michael Wilson,john.smith@gmail.com,,USA,clothing,299.99,100,Package left at front desk. Signed by guard.
+ORD-1328,2023-08-28,  Robert Johnson ,david.t@gmail.com,25,United States of America,ELECTRONICS,,,
+ORD-1329,08/28/2023,Sarah Miller,JANE.DOE@YAHOO.COM,67,,  ,150.0,4,Wrong item shipped. Need refund ASAP.
+1000330,2023-08-29,  Robert Johnson ,david.t@gmail.com,25, India ,Home,299.99,10,n/a
+ORD-1331,2023/08/30 10:49:17,,robert.j@gmail.com,34,u.s.a.,Home,0.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1332,,James Anderson,m.wilson@corp.org,45,,Electronics,0.0,4,Satisfied with purchase. Will buy again!
+ORD-1333,08/31/2023,ALICE BROWN,robert.j@gmail.com,52,canada,Toys,299.99,-1,n/a
+ORD-1334,,John Smith,,999,United Kingdom,electronics,-50.0,1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1335,,ALICE BROWN,james.a@yahoo.com,45,UK,clothing,150.0,100,Package left at front desk. Signed by guard.
+ORD-1336,1693707684,Sarah Miller,JANE.DOE@YAHOO.COM,999,in,clothing,-50.0,10,Package left at front desk. Signed by guard.
+ORD-1337,2023/09/03 19:51:49,ALICE BROWN,marydavis@domain,,USA,Sports ,49.99,5,Package left at front desk. Signed by guard.
+ORD-1338,2023-09-04,Michael Wilson,m.wilson@corp.org,34, India ,Sports ,9999.0,,Package left at front desk. Signed by guard.
+ORD-1339,09/05/2023,david taylor,alice_b@hotmail.com,150,canada,Home,49.99,2,---
+ORD-1340,2023-09-06,John Smith,alice_b@hotmail.com,18,canada,Home,0.0,5,Package left at front desk. Signed by guard.
+ORD-1341,2023-09-06,mARy dAVIS,alice_b@hotmail.com,999,INDIA, Home & Kitchen,,10,Package left at front desk. Signed by guard.
+ORD-1342,09/07/2023,Sarah Miller,JANE.DOE@YAHOO.COM,999,United States of America, Home & Kitchen,19.99,-1,Package left at front desk. Signed by guard.
+ORD-1343,2023-09-08,John Smith,alice_b@hotmail.com,,United Kingdom,Toys,9999.0,5,
+ORD-1344,2023-09-08,ALICE BROWN,john.smith@gmail.com,25,canada, Home & Kitchen,0.0,,---
+1000345,09-Sep-2023,Michael Wilson,m.wilson@corp.org,45,United Kingdom,electronics,-50.0,1,Customer requested return due to damaged packaging.
+ORD-1346,10-Sep-2023,jane doe,john.smith@gmail.com,150,,electronics,-50.0,-1,Wrong item shipped. Need refund ASAP.
+ORD-1347,,James Anderson,m.wilson@corp.org,-5,United States of America,clothing,-50.0,-1,Wrong item shipped. Need refund ASAP.
+ORD-1348,2023-09-11,mARy dAVIS,john.smith@gmail.com,18, India ,Clothing & Apparel,,4,n/a
+ORD-1349,12-Sep-2023,James Anderson,m.wilson@corp.org,52,,electronics,49.99,,
+ORD-1350,13-Sep-2023,John Smith,david.t@gmail.com,-5,Canada,ELECTRONICS,19.99,5,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1351,1694653062,Michael Wilson,JANE.DOE@YAHOO.COM,45,u.s.a.,Home,-50.0,4,Wrong item shipped. Need refund ASAP.
+ORD-1352,14-Sep-2023,Michael Wilson,JANE.DOE@YAHOO.COM,18,canada,Sports ,9999.0,-1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1353,09/15/2023,ALICE BROWN,alice_b@hotmail.com,999,United States, Home & Kitchen,150.0,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1354,09/16/2023,,robert.j@gmail.com,52,,clothing,19.99,3,Package left at front desk. Signed by guard.
+ORD-1355,16-Sep-2023,ALICE BROWN,alice_b@hotmail.com,25,u.s.a.,Electronics,,,Package left at front desk. Signed by guard.
+ORD-1356,,,,150,United States of America,Sports ,19.99,100,---
+ORD-1357,18-Sep-2023,,john.smith@gmail.com,25,INDIA,ELECTRONICS,150.0,1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1358,1695094239,mARy dAVIS,m.wilson@corp.org,34,UK, Home & Kitchen,9999.0,-1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1359,19-Sep-2023,ALICE BROWN,robert.j@gmail.com,,United States,ELECTRONICS,150.0,,---
+1000360,2023-09-20,jane doe,,18,USA,Home,299.99,100,n/a
+ORD-1361,21-Sep-2023,  Robert Johnson ,JANE.DOE@YAHOO.COM,25,in,Home,9999.0,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1362,2023-09-22,  Robert Johnson ,JANE.DOE@YAHOO.COM,-5,INDIA,Toys,19.99,10,
+ORD-1363,22-Sep-2023,ALICE BROWN,alice_b@hotmail.com,,u.s.a.,clothing,-50.0,4,Package left at front desk. Signed by guard.
+ORD-1364,1695472391,ALICE BROWN,john.smith@gmail.com,25,United States of America,Sports ,19.99,100,Package left at front desk. Signed by guard.
+ORD-1365,2023-09-24,James Anderson,robert.j@gmail.com,67,u.s.a.,  ,19.99,3,Satisfied with purchase. Will buy again!
+ORD-1366,1695598441,mARy dAVIS,james.a@yahoo.com,34,in,  ,9999.0,,---
+ORD-1367,1695661466,ALICE BROWN,,45,canada,Sports ,299.99,2,Customer requested return due to damaged packaging.
+ORD-1368,09/26/2023,James Anderson,,150,INDIA,Electronics,19.99,2,Customer requested return due to damaged packaging.
+ORD-1369,09/27/2023,,alice_b@hotmail.com,34,,clothing,0.0,-1,---
+ORD-1370,09/27/2023,Michael Wilson,JANE.DOE@YAHOO.COM,, India ,ELECTRONICS,1200.5,4,
+ORD-1371,,Michael Wilson,alice_b@hotmail.com,67,United States,Electronics,1200.5,100,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1372,09/29/2023,,m.wilson@corp.org,18,uk,Clothing & Apparel,19.99,,---
+ORD-1373,30-Sep-2023,Sarah Miller,robert.j@gmail.com,-5,CAN,Sports ,-50.0,-1,
+ORD-1374,09/30/2023,James Anderson,john.smith@gmail.com,150,u.s.a.,ELECTRONICS,,5,n/a
+1000375,2023-10-01,James Anderson,david.t@gmail.com,150,in,  ,,100,Package left at front desk. Signed by guard.
+ORD-1376,2023/10/02 06:38:14,,marydavis@domain,34,USA,electronics,9999.0,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1377,,jane doe,marydavis@domain,,USA,Toys,1200.5,2,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1378,2023/10/03 17:39:04,david taylor,alice_b@hotmail.com,18,US,  ,19.99,10,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1379,2023-10-04,John Smith,m.wilson@corp.org,999,INDIA,clothing,,,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1380,10/05/2023,,robert.j@gmail.com,67,u.s.a.,Home,19.99,1,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1381,05-Oct-2023,ALICE BROWN,james.a@yahoo.com,999,CAN,electronics,9999.0,-1,Satisfied with purchase. Will buy again!
+ORD-1382,06-Oct-2023,ALICE BROWN,marydavis@domain,-5,Canada,Toys,1200.5,,Package left at front desk. Signed by guard.
+ORD-1383,1696669870,mARy dAVIS,robert.j@gmail.com,18,in,Toys,150.0,,Customer requested return due to damaged packaging.
+ORD-1384,2023/10/08 02:41:36,,john.smith@gmail.com,18,canada,Clothing & Apparel,0.0,3,
+ORD-1385,2023/10/08 20:12:01,mARy dAVIS,m.wilson@corp.org,67,United Kingdom,Clothing & Apparel,0.0,5,---
+ORD-1386,2023-10-09,,JANE.DOE@YAHOO.COM,52,, Home & Kitchen,,100,---
+ORD-1387,10/10/2023,James Anderson,robert.j@gmail.com,999, India ,  ,0.0,100,Customer requested return due to damaged packaging.
+ORD-1388,2023/10/11 00:43:17,John Smith,john.smith@gmail.com,25,CAN,  ,150.0,4,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1389,2023/10/11 18:13:42,James Anderson,james.a@yahoo.com,150,United Kingdom,  ,19.99,1,Package left at front desk. Signed by guard.
+1000390,1697111047,david taylor,david.t@gmail.com,52,INDIA, Home & Kitchen,9999.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1391,2023-10-13,Michael Wilson,JANE.DOE@YAHOO.COM,25,,Electronics,150.0,4,
+ORD-1392,2023-10-13,  Robert Johnson ,david.t@gmail.com,,United Kingdom,Toys,9999.0,10,n/a
+ORD-1393,2023/10/14 16:15:23,,james.a@yahoo.com,67,,electronics,9999.0,100,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1394,2023-10-15,david taylor,john.smith@gmail.com,,uk,clothing,1200.5,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1395,1697426173,Michael Wilson,marydavis@domain,150,US,Toys,19.99,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1396,1697489199,Sarah Miller,david.t@gmail.com,45,CAN,Clothing & Apparel,0.0,,Satisfied with purchase. Will buy again!
+ORD-1397,2023-10-17,John Smith,JANE.DOE@YAHOO.COM,25,INDIA,ELECTRONICS,1200.5,2,---
+ORD-1398,2023/10/18 07:47:29,mARy dAVIS,alice_b@hotmail.com,52,CAN,Home,9999.0,1,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1399,2023/10/19 01:17:54,mARy dAVIS,,25,uk, Home & Kitchen,,2,Satisfied with purchase. Will buy again!
+ORD-1400,10/19/2023,James Anderson,robert.j@gmail.com,25,u.s.a.,Sports ,0.0,5,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1401,1697804325,ALICE BROWN,marydavis@domain,67,u.s.a.,ELECTRONICS,0.0,4,---
+ORD-1402,21-Oct-2023,Michael Wilson,david.t@gmail.com,,u.s.a.,clothing,19.99,4,---
+ORD-1403,2023/10/21 23:19:35,Sarah Miller,robert.j@gmail.com,999,UK,  ,299.99,,Wrong item shipped. Need refund ASAP.
+ORD-1404,2023-10-22,david taylor,alice_b@hotmail.com,45,United Kingdom,Clothing & Apparel,49.99,100,ITEM DEFECTIVE - Screen cracked on arrival.
+1000405,1698056426,John Smith,james.a@yahoo.com,67,UK,Clothing & Apparel,49.99,10,Package left at front desk. Signed by guard.
+ORD-1406,2023-10-24,Michael Wilson,,-5,US,Clothing & Apparel,49.99,1,Customer requested return due to damaged packaging.
+ORD-1407,,Sarah Miller,john.smith@gmail.com,67, India ,  ,299.99,2,Customer requested return due to damaged packaging.
+ORD-1408,1698245502,  Robert Johnson ,alice_b@hotmail.com,150,uk,Sports ,19.99,10,n/a
+ORD-1409,10/26/2023,,alice_b@hotmail.com,45,INDIA, Home & Kitchen,299.99,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1410,2023-10-27,mARy dAVIS,james.a@yahoo.com,18,CAN,ELECTRONICS,49.99,5,Satisfied with purchase. Will buy again!
+ORD-1411,1698434577,david taylor,m.wilson@corp.org,-5,,  ,1200.5,5,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1412,1698497603,mARy dAVIS,james.a@yahoo.com,34,canada,clothing,150.0,10,
+ORD-1413,29-Oct-2023,david taylor,m.wilson@corp.org,67,INDIA, Home & Kitchen,9999.0,10,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1414,29-Oct-2023,James Anderson,m.wilson@corp.org,25,United Kingdom,clothing,299.99,10,Wrong item shipped. Need refund ASAP.
+ORD-1415,2023-10-30,ALICE BROWN,marydavis@domain,999,UK, Home & Kitchen,19.99,2,---
+ORD-1416,2023-10-31,david taylor,marydavis@domain,18,UK,Sports ,19.99,3,Package left at front desk. Signed by guard.
+ORD-1417,2023-11-01,mARy dAVIS,JANE.DOE@YAHOO.COM,67,United States of America,Home,150.0,10,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1418,01-Nov-2023,James Anderson,david.t@gmail.com,67,UK,clothing,,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1419,2023/11/02 15:26:19,david taylor,david.t@gmail.com,52, India ,  ,0.0,1,"Customer called support: 'Item fit is too small, returning for L size.'"
+1000420,2023/11/03 08:56:45,  Robert Johnson ,john.smith@gmail.com,52,Canada, Home & Kitchen,49.99,1,Package left at front desk. Signed by guard.
+ORD-1421,2023/11/04 02:27:10,ALICE BROWN,david.t@gmail.com,18,CAN,Clothing & Apparel,,2,n/a
+ORD-1422,11/04/2023,david taylor,marydavis@domain,,Canada,Toys,49.99,10,Satisfied with purchase. Will buy again!
+ORD-1423,2023-11-05,James Anderson,JANE.DOE@YAHOO.COM,52,,Clothing & Apparel,150.0,,Satisfied with purchase. Will buy again!
+ORD-1424,11/06/2023,Michael Wilson,JANE.DOE@YAHOO.COM,25,CAN,Electronics,49.99,4,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1425,07-Nov-2023,jane doe,m.wilson@corp.org,-5,uk,Home,150.0,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1426,2023-11-07,Sarah Miller,james.a@yahoo.com,34,CAN,Home,-50.0,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1427,1699442981,jane doe,john.smith@gmail.com,45,Canada,Clothing & Apparel,,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1428,2023-11-09,jane doe,m.wilson@corp.org,34,INDIA,ELECTRONICS,,5,Package left at front desk. Signed by guard.
+ORD-1429,11/09/2023,John Smith,james.a@yahoo.com,34,CAN,Sports ,0.0,,---
+ORD-1430,11/10/2023,  Robert Johnson ,david.t@gmail.com,45,uk,clothing,150.0,2,Package left at front desk. Signed by guard.
+ORD-1431,2023/11/11 09:31:22,Michael Wilson,m.wilson@corp.org,52,uk,  ,299.99,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1432,12-Nov-2023,,robert.j@gmail.com,18,US,Home,-50.0,-1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1433,11/12/2023,david taylor,david.t@gmail.com,45,CAN,Clothing & Apparel,1200.5,-1,Satisfied with purchase. Will buy again!
+ORD-1434,11/13/2023,Sarah Miller,james.a@yahoo.com,150,canada,Clothing & Apparel,49.99,10,
+1000435,2023/11/14 07:33:03,ALICE BROWN,john.smith@gmail.com,,United States of America,Sports ,-50.0,10,Satisfied with purchase. Will buy again!
+ORD-1436,11/15/2023,Michael Wilson,james.a@yahoo.com,-5,u.s.a.,Sports ,150.0,2,Customer requested return due to damaged packaging.
+ORD-1437,2023/11/15 18:33:54,mARy dAVIS,m.wilson@corp.org,999,USA,electronics,9999.0,10,n/a
+ORD-1438,2023/11/16 12:04:19,,m.wilson@corp.org,52,uk,electronics,49.99,4,Wrong item shipped. Need refund ASAP.
+ORD-1439,11/17/2023,John Smith,alice_b@hotmail.com,,United States,ELECTRONICS,19.99,3,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1440,11/17/2023,John Smith,john.smith@gmail.com,45,u.s.a.,ELECTRONICS,,2,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1441,1700325335,Michael Wilson,david.t@gmail.com,150, India ,Electronics,150.0,1,n/a
+ORD-1442,2023-11-19,James Anderson,JANE.DOE@YAHOO.COM,999,United Kingdom,ELECTRONICS,19.99,5,
+ORD-1443,2023-11-20,jane doe,john.smith@gmail.com,-5,CAN, Home & Kitchen,0.0,2,Wrong item shipped. Need refund ASAP.
+ORD-1444,2023/11/20 21:06:51,mARy dAVIS,JANE.DOE@YAHOO.COM,-5,Canada,Sports ,1200.5,2,---
+ORD-1445,1700577436,John Smith,john.smith@gmail.com,52,USA,  ,1200.5,-1,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1446,1700640461,Sarah Miller,john.smith@gmail.com,45,United States, Home & Kitchen,19.99,100,Wrong item shipped. Need refund ASAP.
+ORD-1447,2023/11/23 01:38:06,John Smith,james.a@yahoo.com,,u.s.a.,clothing,,100,
+ORD-1448,2023-11-23,ALICE BROWN,john.smith@gmail.com,18,CAN,Clothing & Apparel,0.0,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1449,11/24/2023,david taylor,alice_b@hotmail.com,,US,ELECTRONICS,9999.0,1,Customer requested return due to damaged packaging.
+1000450,2023/11/25 06:09:22,John Smith,m.wilson@corp.org,,United Kingdom,Clothing & Apparel,,-1,Wrong item shipped. Need refund ASAP.
+ORD-1451,25-Nov-2023,ALICE BROWN,,-5,USA,Home,-50.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1452,2023-11-26,Michael Wilson,JANE.DOE@YAHOO.COM,18,United States of America,Electronics,1200.5,4,Customer requested return due to damaged packaging.
+ORD-1453,1701081638,Michael Wilson,m.wilson@corp.org,18,,Home,-50.0,100,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1454,11/28/2023,,,52,US,Electronics,49.99,2,Wrong item shipped. Need refund ASAP.
+ORD-1455,2023-11-28,John Smith,JANE.DOE@YAHOO.COM,999,United States,electronics,299.99,10,Customer requested return due to damaged packaging.
+ORD-1456,,Sarah Miller,JANE.DOE@YAHOO.COM,67, India ,Clothing & Apparel,150.0,10,Customer requested return due to damaged packaging.
+ORD-1457,2023-11-30,John Smith,,34,USA,Electronics,0.0,,Customer requested return due to damaged packaging.
+ORD-1458,12/01/2023,Sarah Miller,john.smith@gmail.com,34,US,Toys,,5,Package left at front desk. Signed by guard.
+ORD-1459,12/01/2023,  Robert Johnson ,david.t@gmail.com,-5,United Kingdom, Home & Kitchen,1200.5,4,
+ORD-1460,12/02/2023,,robert.j@gmail.com,67,United States of America,Electronics,-50.0,5,Package left at front desk. Signed by guard.
+ORD-1461,03-Dec-2023,  Robert Johnson ,m.wilson@corp.org,999,US,Electronics,49.99,5,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1462,2023/12/04 00:14:25,John Smith,james.a@yahoo.com,67,UK, Home & Kitchen,150.0,100,---
+ORD-1463,04-Dec-2023,,m.wilson@corp.org,52,United States of America,Clothing & Apparel,150.0,100,Package left at front desk. Signed by guard.
+ORD-1464,1701774916,  Robert Johnson ,james.a@yahoo.com,,,Clothing & Apparel,,2,Package left at front desk. Signed by guard.
+1000465,2023-12-06,jane doe,,-5,United States, Home & Kitchen,0.0,-1,
+ORD-1466,2023-12-06,John Smith,james.a@yahoo.com,18, India ,Home,9999.0,100,---
+ORD-1467,1701963991,  Robert Johnson ,JANE.DOE@YAHOO.COM,-5,United Kingdom,Toys,,10,n/a
+ORD-1468,12/08/2023,jane doe,david.t@gmail.com,34,canada,  ,-50.0,5,Customer requested return due to damaged packaging.
+ORD-1469,1702090042,jane doe,david.t@gmail.com,999,CAN,clothing,299.99,,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1470,,Michael Wilson,JANE.DOE@YAHOO.COM,67,Canada,Toys,19.99,3,---
+ORD-1471,1702216092,John Smith,alice_b@hotmail.com,999,in,Clothing & Apparel,9999.0,4,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1472,,jane doe,,52,INDIA,  ,0.0,,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1473,1702342143,Michael Wilson,alice_b@hotmail.com,-5,INDIA,electronics,49.99,10,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1474,12-Dec-2023,  Robert Johnson ,alice_b@hotmail.com,45,Canada,ELECTRONICS,9999.0,100,Customer requested return due to damaged packaging.
+ORD-1475,1702468193,ALICE BROWN,m.wilson@corp.org,-5,in,Electronics,1200.5,-1,---
+ORD-1476,12/14/2023,John Smith,m.wilson@corp.org,18,Canada, Home & Kitchen,0.0,2,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1477,14-Dec-2023,,robert.j@gmail.com,-5,USA, Home & Kitchen,299.99,3,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1478,1702657269,Sarah Miller,james.a@yahoo.com,150,United States,Electronics,1200.5,1,n/a
+ORD-1479,16-Dec-2023,Sarah Miller,JANE.DOE@YAHOO.COM,52,United Kingdom,ELECTRONICS,9999.0,,n/a
+1000480,17-Dec-2023,  Robert Johnson ,m.wilson@corp.org,25,United States of America,clothing,19.99,-1,---
+ORD-1481,17-Dec-2023,James Anderson,,52,USA,ELECTRONICS,19.99,1,Customer requested return due to damaged packaging.
+ORD-1482,2023-12-18,James Anderson,james.a@yahoo.com,67,United States,  ,299.99,3,Package left at front desk. Signed by guard.
+ORD-1483,19-Dec-2023,  Robert Johnson ,robert.j@gmail.com,25,CAN,ELECTRONICS,150.0,4,Satisfied with purchase. Will buy again!
+ORD-1484,20-Dec-2023,jane doe,robert.j@gmail.com,67,UK,  ,49.99,4,Wrong item shipped. Need refund ASAP.
+ORD-1485,1703098446,John Smith,,67,INDIA,ELECTRONICS,150.0,5,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1486,,Sarah Miller,alice_b@hotmail.com,18,United Kingdom,clothing,19.99,3,Wrong item shipped. Need refund ASAP.
+ORD-1487,2023-12-22,Sarah Miller,david.t@gmail.com,18,Canada,clothing,19.99,3,
+ORD-1488,1703287522,jane doe,,,US,Clothing & Apparel,-50.0,1,n/a
+ORD-1489,1703350547,Sarah Miller,marydavis@domain,34,canada,Electronics,1200.5,-1,---
+ORD-1490,2023-12-24,,,,United Kingdom,clothing,9999.0,1,Wrong item shipped. Need refund ASAP.
+ORD-1491,25-Dec-2023,John Smith,robert.j@gmail.com,,uk,  ,49.99,2,Customer requested return due to damaged packaging.
+ORD-1492,2023-12-25,david taylor,JANE.DOE@YAHOO.COM,34, India ,clothing,299.99,4,ITEM DEFECTIVE - Screen cracked on arrival.
+ORD-1493,12/26/2023,Sarah Miller,m.wilson@corp.org,45,in,Clothing & Apparel,9999.0,4,Wrong item shipped. Need refund ASAP.
+ORD-1494,2023-12-27,  Robert Johnson ,JANE.DOE@YAHOO.COM,25,United States, Home & Kitchen,-50.0,5,ITEM DEFECTIVE - Screen cracked on arrival.
+1000495,2023-12-28,,robert.j@gmail.com,999,u.s.a.,  ,19.99,2,"Customer called support: 'Item fit is too small, returning for L size.'"
+ORD-1496,28-Dec-2023,Sarah Miller,m.wilson@corp.org,,CAN,Clothing & Apparel,299.99,4,Customer requested return due to damaged packaging.
+ORD-1497,12/29/2023,,marydavis@domain,-5,UK,Home,19.99,1,Satisfied with purchase. Will buy again!
+ORD-1498,1703917774,Michael Wilson,david.t@gmail.com,-5,CAN,Home,49.99,2,DELIVERY DELAYED BY 3 DAYS - Customer complained.
+ORD-1499,1703980800,david taylor,james.a@yahoo.com,67,United Kingdom,electronics,1200.5,1,ITEM DEFECTIVE - Screen cracked on arrival.
